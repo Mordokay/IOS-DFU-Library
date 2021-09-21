@@ -9,7 +9,7 @@ The nRF5x Series chips are flash-based SoCs, and as such they represent the most
   s.homepage         = "https://github.com/Mordokay/IOS-DFU-Library_BOND.git"
   s.license          = 'BSD 3-Clause'
   s.authors          = { "Mordokay" => "papajorgioster@gmail.com" }
-  s.source           = { :git => "https://github.com/Mordokay/IOS-DFU-Library_BOND.git", :tag => s.version.to_s }
+  s.source           = { :git => "https://github.com/Mordokay/IOS-DFU-Library_BOND.git" }
   s.swift_versions   = ['4.2', '5.0', '5.1', '5.2', '5.3', '5.4', '5.5']
   
   s.ios.deployment_target = '9.0'
